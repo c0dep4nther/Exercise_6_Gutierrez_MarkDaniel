@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public enum PersonType {
+public enum PersonType {
+    CHARACTER, AUTHOR, EDITOR
 }

@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class FileOps {
+public interface FileOps {
+    void addToFile();
 }
+
